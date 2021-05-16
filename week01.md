@@ -1,0 +1,3 @@
+# Week 1
+
+The beginning of our week began with us getting familiar with moving around in the terminal. We learned how to move between directories and how to create folders and files (among other things we could do inside our terminal!) We also got a crash course on how and what git is and how to link up our terminal with github so that we can collaborate with other developers (super excited to work on projects!) The rest of the week has been learning some basic Python3 stuff like making conditionals, lists, loops, and dictionaries. I'm looking forward to what the next week will bring and everything we'll be learning! So far I've loved Sean's teaching style and I feel lucky to have gotten him as my instructor :)
