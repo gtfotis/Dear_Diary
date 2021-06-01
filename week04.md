@@ -1,0 +1,3 @@
+# Week 4
+
+This week we spent learning a lot more about JS, we learned what the AJAX is and how to send requests for data from API's! I read about AJAX through the learning portal and was completely lost until we went over it in class.. still not 100% but at least I know how to write the code to do it, lol. We built some apps this week pulling API's for data so that was fun. Always looking forward to learning more :)
