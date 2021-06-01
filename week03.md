@@ -1,0 +1,3 @@
+# Week 3
+
+Doing this weekly entry a lil late, but this week we finished our Python projects and presented on Monday! We did so well and I'm proud of us. I was nervous while presenting our game, but luckily my nerves somehow weren't as noticeable as I thought they would be, ^^; The rest of the week we started learning Javascript and at first it was a little difficult to get used to the differences between Python and JS but it's slowly coming together. Looking forward to the next group project! 
