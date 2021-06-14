@@ -1,0 +1,3 @@
+# Week 6
+
+This week we started on our group projects! Super excited to get to work with both Alyssa and Josh, we were able to quickly come to an agreement on what our project would be so that really helped keep us on track. We were finished with most of it on Wednesday and after that we just slowly added things we thought would be nice to include in our site! Looking forward to presentations on Monday :)
