@@ -1,0 +1,3 @@
+# Week 5
+
+This week I believe (I'm writing this two weeks late, I'm sorry Sean!) we did more work with API's to get extremely comfortable fetching data to get us ready for our group project next week. We also messed around with Bulma and bootstrap which I did not care for too much but it's nice to have some resources we can use to help alleviate the workload! Looking forward to our group project next week! (This is weird writing this two weeks in the future)
