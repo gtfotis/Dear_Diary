@@ -1,0 +1,3 @@
+# Week 7
+
+This week we presented group projects on Monday and I'm really proud of what our group made! After that we got started learning how to make an Express app, at first it was kinda confusing, but I know it'll make more sense the more we do it. My experience at DigitalCrafts so far is usually a week of confusion over the new things we're learning then a week of clarity. Looking forward to clarity! c:
